@@ -1,0 +1,19 @@
+header{
+background-image: url(../../assets/image/bg-image-1.webp);
+background-size: cover;
+background-position:center center ;
+background-attachment: fixed;
+}
+.custom {
+    top: 76% !important;
+    z-index: 99999;
+}
+.holder {
+    margin-bottom: 11rem;
+}
+
+@media (max-width:768px) {
+    header{
+        margin-bottom: 22rem !important;
+    }
+}

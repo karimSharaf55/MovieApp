@@ -1,0 +1,7 @@
+nav.navbar.navbar-expand-lg.navbar-dark {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 99999999;
+    background-color: #131722;
+}
